@@ -1,9 +1,9 @@
 <html>
   <head>
    <title>Sidney Crosby</title>
-   <body style="background-color: #92BFFF; color: black;">
+   <link href="css.css" rel="stylesheet">
   </head>
- <body>
+ <body style="background-color: #92BFFF; color: black;">
      <h1>Sidney Crosby</h1>
      <img src="Crosby.jpg">
      <h3> Kdo to je?</h3>
