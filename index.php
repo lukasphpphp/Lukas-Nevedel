@@ -23,6 +23,16 @@
      <a href="https://cs.wikipedia.org/wiki/Sidney_Crosby">Klikni zde</a>
      <hr>
      <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     <br>
+     
+     
+     
      <i>Pokud chcete dostávat aktuální informace prosím přihlaste se </i>
      <br>
      <input type = text> jméno
