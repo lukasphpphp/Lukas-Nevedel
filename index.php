@@ -20,19 +20,7 @@
     <br>
      <b> Více informací</b>
     <br>
-     <a href="https://cs.wikipedia.org/wiki/Sidney_Crosby">Klikni zde</a>
-     <hr>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     <br>
-     
-     
-     
+    <a href="https://cs.wikipedia.org/wiki/Sidney_Crosby">Klikni zde</a>  
      <i>Pokud chcete dostávat aktuální informace prosím přihlaste se </i>
      <br>
      <input type = text> jméno
